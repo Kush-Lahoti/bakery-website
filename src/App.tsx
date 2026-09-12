@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ShoppingBag, X, Plus, Minus, Phone, Star, Heart, ChefHat, Instagram, MapPin } from 'lucide-react';
 import { products, Product } from './data/products';
